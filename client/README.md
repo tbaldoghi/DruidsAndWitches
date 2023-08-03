@@ -1,5 +1,5 @@
 <h1 align="center">
-  Lord of Dragons
+  Druids & Witches
 </h1>
 
 ## Available Commands
